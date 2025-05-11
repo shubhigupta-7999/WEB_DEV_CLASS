@@ -1,0 +1,150 @@
+  h1{
+    color: crimson;
+}
+
+p{
+    color: red;
+}
+button{
+    color: red;
+}
+button{
+    background-color: white;
+}
+
+body{
+
+    background-color: rgb(156, 177, 255);
+}
+
+
+        *{
+color: blue;
+
+        }
+        h1{
+            color: green;
+        }
+        button{
+            color: blueviolet;
+        }
+
+
+        #headingone{
+            color: darkgoldenrod;
+        }
+
+
+
+        .myclass{
+            color: navajowhite;
+        }
+
+                p{
+                    text-align: center;
+                }
+                    h2{
+                        text-align: center;
+                    }
+                    h2{
+                        text-decoration: blue underline;
+                    }
+                    a{
+                        text-decoration:none ;
+                    }
+                   #h4{
+                    font-weight:  normal;
+                    }
+                    #h5{
+                       font-weight: lighter ; 
+                    }
+                        #h6{
+                            font-weight: calc();
+                        }
+                            #h6{
+                                font-weight: initial;
+                            }
+                            #one{
+                                font-family: Arial;
+                                    line-height: 20px;
+                                    text-transform:uppercase;
+                            }
+                            # two{
+                                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                            }
+
+                            #oo{
+                                font-size: 27;
+                            }
+                            #wo{
+                                font-size: 21;
+                            }
+            /*   div{
+                        height: 100px;
+                        background-color: rgb(43, 226, 98);
+                        width: 100px;
+                        border-width: 2px;
+                       border-style: solid; 
+                       border-color: black;
+                       border-width: 4px ;
+                       text-align:center ;
+                       border-radius:30px ;
+                       padding-left: 25px;
+                       padding-bottom: 20px;
+                       padding-right: 28px;
+                       margin-top:50px ;
+                       margin-bottom:50px ;
+                       margin-left:50 ;
+                       margin-right: 80;
+                     }     
+                       */
+                        h1{
+                            border:2px solid black ;
+
+                        }
+
+                        *{
+                            padding: 0;
+                            padding:0 ;
+                            color: white;
+                        }
+                        #navbar {
+                            height: 60px;
+                            background-color: #0f1111 ;
+                            
+                        }
+                        button {
+                            background-color: #f08804;
+                            font-size: 25px;
+                        }
+                        
+                            
+
+                        #logo {
+                        color: #f08804;
+                        font-size: 25px;
+                        }
+                        a {
+                            margin: 200px;
+                        }
+                        div{
+                            background-color: blue;
+                            display: inline;
+                        }
+                        button{
+                            display: block;
+                              }
+
+                           div{
+                            width: 100;
+                            height: 100;
+                            margin: 25px;
+                            padding: 25px;
+                            display:inline;
+                            background-color:rgba(0,0,0.0.25);
+                           }
+                            box1{
+                                display: none;
+                            }
+                              
+    
